@@ -92,13 +92,13 @@ h5 {
   background-color: #fd9284;
 }
 
-.links__item .links__item--past-event {
+/* .links__item .links__item--past-event {
   border-bottom: 3px solid #bedde8;
   box-shadow: inset 0 -4px 0 #bedde8;
   border-radius: 25px;
   border: 2px solid #bedde8;
   background-color: #bedde8;
-}
+} */
 
 .links__item .links__item--featured {
   box-shadow: inset 0 -4px 0 #73e2a7;
