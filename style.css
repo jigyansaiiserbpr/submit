@@ -28,6 +28,7 @@ body {
 
 .logo {
   width: 300px;
+  margin-top: 50px;
 }
 
 h5 {
@@ -84,11 +85,11 @@ h5 {
 }
 
 .links__item .links__item--promo {
-  border-bottom: 3px solid #80d6ff;
-  box-shadow: inset 0 -4px 0 #80d6ff;
+  border-bottom: 3px solid #fd9284;
+  box-shadow: inset 0 -4px 0 #fd9284;
   border-radius: 25px;
-  border: 2px solid #80d6ff;
-  background-color: #80d6ff;
+  border: 2px solid #fd9284;
+  background-color: #fd9284;
 }
 
 .links__item .links__item--past-event {
@@ -144,4 +145,8 @@ h5 {
 
 .channels__item:hover {
   transform: scale(1.5);
+}
+
+.footer {
+  margin-top: 50px;
 }
